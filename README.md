@@ -3,7 +3,8 @@
 - 💞️ I’m looking for my first front-end post so I can achive my goal on writing commercial apps.
 - 🌱 I’m interested in gardening recently and japanese culture.
 - 📫 Reach me via email ;)
-- Preparing for an exam and a new job as Junior Front-end-dev!
+- 🥇 Passed a React Exam! 
+- 🦖 Started new job as Junior Front-end-dev! Wish me luck!
 
 
 
