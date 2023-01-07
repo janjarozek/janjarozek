@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @janjarozek
-- 👀 I’m currently learning coding to change my life.
-- 💞️ I’m looking for my first front-end post so I can achive my goal on writing commercial apps.
-- 🌱 I’m interested in gardening recently and japanese culture.
-- 📫 Reach me via email ;)
-- 🥇 Passed a React Exam! 
-- 🦖 Started new job as Junior Front-end-dev! Wish me luck!
-
-
+Welcome to my repository!
+I'm a Junior Frontend Developer with still much to learn. As I progress with my knowledge at work I don't always have time for additional projects after hours, but I'll try to do as much as possible to evolve and bocome a better programmer. As time will pass I'll place all my work on this github.
 
 <!---
 janjarozek/janjarozek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
